@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript and React from Oding-Project Curriculum.
 - 🔭 I’m currently working on different project challenges on Frontend Mentor to keep my skill level up and more from Odin-Project Curriculum.
 - 💞 I'm Looking for collaborationon any open source projects to increase my grow and knowledge and also make our lives better.
+- 📫 You can reach me using my portfolio its still working progress: https://jomoke814.github.io/Portfolio/
 - ⚡ Fun fact: GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over a million people use GitHub to build amazing things together.
 
 <!--
