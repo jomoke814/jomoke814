@@ -1,10 +1,10 @@
 ### Hi there 👋 I am John Omoke.
-- 👀 I am interested in building projects to level up my skills and knowledge of wed development.
+- 👀 I am interested in building projects to level up my skills and knowledge of web development.
 - 🌱 I’m currently learning JavaScript and React from Oding-Project Curriculum.
-- 🔭 I’m currently working on different project challenges on Frontend Mentor to keep my skill level up and more from Odin-Project Curriculum.
-- 💞 I'm Looking for collaborationon any open source projects to increase my grow and knowledge and also make our lives better.
-- 📫 You can reach me using my portfolio its still working progress: https://jomoke814.github.io/Portfolio/
-- ⚡ Fun fact: GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over a million people use GitHub to build amazing things together.
+- 🔭 I’m working on different project challenges on Frontend Mentor to keep my skill level up and more from Odin-Project Curriculum.
+- 💞 I'm Looking for collaboration on any open source projects to increase my growth and knowledge and improve our lives.
+- 📫 You can reach me using my portfolio it's still working in progress: https://jomoke814.github.io/Portfolio/
+- ⚡ Fun fact: It's not a bug; just an undocumented feature.
 
 <!--
 **jomoke814/jomoke814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
