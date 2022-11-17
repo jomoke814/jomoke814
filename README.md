@@ -4,6 +4,7 @@
 - 🔭 I’m working on different project challenges on Frontend Mentor to keep my skill level up and more from Odin-Project Curriculum.
 - 💞 I'm Looking for collaboration on any open source projects to increase my growth and knowledge and improve our lives.
 - 📫 You can reach me using my portfolio it's still working in progress: https://jomoke814.github.io/Portfolio/
+- 👨‍💻 More project on https://jomoke814.github.io/Frontend-Mentor-challenges/
 - ⚡ Fun fact: It's not a bug; just an undocumented feature.
 
 <!--
